@@ -1,6 +1,3 @@
-<!--   my-header-img -->
-![](./src/header_.png)
-
 <!--   my-icons -->
 [![](https://img.shields.io/badge/MacOS-Monterey-2376bc?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
