@@ -14,8 +14,6 @@
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square)
 
 ![](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Nike Badge](https://img.shields.io/badge/Nike-111?logo=nike&logoColor=fff&style=flat-square)
-![Counter-Strike Badge](https://img.shields.io/badge/Counter--Strike-000?logo=counterstrike&logoColor=fff&style=flat-square)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
